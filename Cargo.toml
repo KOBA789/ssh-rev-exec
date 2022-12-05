@@ -1,5 +1,5 @@
 [package]
-name = "ssh-rev-exec"
+name = "ssh-rev"
 version = "0.1.0"
 edition = "2021"
 

@@ -7,7 +7,7 @@ use std::{
 use anyhow::Result;
 use clap::Parser as _;
 
-use ssh_rev_exec::{Exec, RevAgent, RevExec};
+use ssh_rev::{Exec, RevAgent, RevExec};
 
 #[derive(clap::Parser, Debug)]
 struct Args {
